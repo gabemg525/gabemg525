@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> LinkedIn profile:</h2>
+<h3> LinkedIn: </h3>
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/D3D3D3" />][linkedin]
 
